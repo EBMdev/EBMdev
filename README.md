@@ -5,7 +5,9 @@
 ## Sobre mi :
 
 -💻 Desarrollador web en formación | Apasionado por crear interfaces limpias y funcionales.
+
 -✅ Experiencia en HTML y CSS
+
 -🌱 Siempre aprendiendo y mejorando mis habilidades en desarrollo front-end.
 
 <br>
